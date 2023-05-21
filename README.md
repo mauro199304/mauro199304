@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...learn to program PHP and bash
 - 🌱 I’m currently learning ...learn to program PHP and bash
 - 💞️ I’m looking to collaborate on ...paypal el_chege_vara@hotmail.com
-- 📫 How to reach me ...Telegram @ApachayOpachai
+- 📫 How to reach me ...Telegram @Elverdes
+- https://t.me/Elverdes
 
 <!---
 mauro199304/mauro199304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
